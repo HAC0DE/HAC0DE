@@ -10,7 +10,7 @@
 <img src="https://img.shields.io/badge/BASE-Pune%2C%20India-7C3AED?style=for-the-badge&labelColor=0D1117" alt="Pune, India"/>
 <img src="https://img.shields.io/badge/STACK-Java%20%2B%20Spring%20Boot-A78BFA?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=0D1117" alt="Java and Spring Boot"/>
 <img src="https://img.shields.io/badge/SIH%202024-CHAMPION-F59E0B?style=for-the-badge&labelColor=0D1117" alt="SIH 2024 Champion"/>
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=VISITORS&color=7C3AED&style=for-the-badge&labelColor=0D1117" alt="Profile views"/>
+<!-- <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=VISITORS&color=7C3AED&style=for-the-badge&labelColor=0D1117" alt="Profile views"/> -->
 
 </div>
 
