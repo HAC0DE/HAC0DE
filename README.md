@@ -1,133 +1,184 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:05070D,45:111827,100:7C3AED&text=ATHARVA%20UGH ADE&fontColor=E5E7EB&fontSize=44&fontAlignY=42&desc=JAVA%20DEVELOPER%20%7C%20SYSTEMS%20THINKER%20%7C%20BUILDER&descSize=14&descAlignY=62" alt="Atharva Ughade developer banner"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=240&color=0:05070D,45:111827,100:7C3AED&text=ATHARVA%20UGHADE&fontColor=E5E7EB&fontSize=46&fontAlignY=40&desc=JAVA%20DEVELOPER%20%7C%20SYSTEMS%20THINKER%20%7C%20BUILDER&descSize=14&descAlignY=62&animation=fadeIn" alt="Atharva Ughade banner"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2400&pause=700&color=A78BFA&center=true&vCenter=true&width=760&height=40&lines=%24+sudo+boot+atharva.dev;%5B+OK+%5D+Java+%7C+Spring+Boot+%7C+REST+APIs;%5B+OK+%5D+SIH+2024+Champion+%E2%80%A2+Team+Lead;%5B+OK+%5D+Building+systems.+Solving+real+problems.;%24+ready_to_ship_" alt="Terminal typing animation"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2600&pause=800&color=A78BFA&center=true&vCenter=true&width=720&lines=booting+atharva.dev...;Java+%7C+Spring+Boot+%7C+REST+APIs;SIH+2024+Champion+%7C+Team+Lead;Building+systems.+Solving+real+problems." alt="Terminal-style animated intro"/>
-
-<br/>
-
-<a href="https://github.com/YOUR_GITHUB_USERNAME"><img src="https://img.shields.io/badge/PROFILE-online-22C55E?style=flat-square&logo=github&logoColor=white&labelColor=111827" alt="GitHub profile"/></a>
-<img src="https://img.shields.io/badge/LOCATION-Pune%2C%20India-7C3AED?style=flat-square&labelColor=111827" alt="Location Pune India"/>
-<img src="https://img.shields.io/badge/FOCUS-Java%20%2B%20Spring%20Boot-A78BFA?style=flat-square&labelColor=111827" alt="Java and Spring Boot focus"/>
-<img src="https://img.shields.io/badge/SIH-2024%20CHAMPION-F59E0B?style=flat-square&labelColor=111827" alt="Smart India Hackathon 2024 Champion"/>
+<a href="https://github.com/YOUR_GITHUB_USERNAME"><img src="https://img.shields.io/badge/PROFILE-online-22C55E?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="GitHub profile"/></a>
+<img src="https://img.shields.io/badge/BASE-Pune%2C%20India-7C3AED?style=for-the-badge&labelColor=0D1117" alt="Pune, India"/>
+<img src="https://img.shields.io/badge/STACK-Java%20%2B%20Spring%20Boot-A78BFA?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=0D1117" alt="Java and Spring Boot"/>
+<img src="https://img.shields.io/badge/SIH%202024-CHAMPION-F59E0B?style=for-the-badge&labelColor=0D1117" alt="SIH 2024 Champion"/>
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=VISITORS&color=7C3AED&style=for-the-badge&labelColor=0D1117" alt="Profile views"/>
 
 </div>
 
-```bash
-┌──(atharva㉿devbox)-[~/profile]
-└─$ whoami
-Java developer • B.Tech IT • Team Lead • SIH 2024 Champion
+<br/>
+
+```text
+┌──(atharva㉿devbox)-[~]
+└─$ neofetch --profile
+
+   ▄▄▄▄▄▄▄▄▄▄▄▄▄     atharva@devbox
+   █ ▀▄ ▄▀ ▄▀▄ █     ──────────────────────────────────────────
+   █  ▄▀▄  █▄█ █     role     Java Developer · Backend Engineering
+   █ ▄▀ ▀▄ █ █ █     edu      B.Tech IT · SPPU · CGPA 8.08 · May 2027
+   ▀▀▀▀▀▀▀▀▀▀▀▀▀     core     Java · Spring Boot · REST APIs · SQL
+                     rank     SIH 2024 Champion · IDE Bootcamp Top 1%
+                     lead     Team Lead @ Superiors Technology
+                     motto    learn deeply · build deliberately · ship responsibly
 ```
 
-## `01 / ABOUT`
+---
 
-Hey, I'm **Atharva Ughade**, an Information Technology engineering student at Savitribai Phule Pune University, building my path in backend engineering.
+## `00 // BOOT SEQUENCE`
 
-I enjoy designing practical applications, understanding how systems fit together, and working with teams to turn complex problems into useful software. My experience spans Java/Spring application development, AI automation, and leading a team behind a national hackathon-winning project.
+```text
+[  OK  ] Mounted      /dev/curiosity ............ read-write
+[  OK  ] Loaded       module java ............... Spring Boot, MVC, Data JPA
+[  OK  ] Loaded       module security ........... JWT · BCrypt · RBAC · MFA
+[  OK  ] Started      team-lead.service ......... 5 members, 1 national win
+[  OK  ] Reached      target backend-engineering.target
+[ .... ] Running      learning.daemon ........... microservices, system design
+```
 
-- **Currently focused on:** Java, Spring Boot, REST APIs, SQL, and backend fundamentals
-- **Engineering mindset:** clear layers, secure access, maintainable code, real-world utility
-- **Leadership:** Team Lead at Superiors Technology; led a five-member team on BLACKGOLD
-- **Education:** B.Tech in Information Technology · CGPA 8.08/10 · Expected May 2027
+---
+
+## `01 // ABOUT`
+
+Hey, I'm **Atharva Ughade**, an Information Technology student at Savitribai Phule Pune University, building my path in **backend engineering**.
+
+I like understanding how systems fit together: clear layers, secure access, code that stays maintainable, and software that is useful to real people. My experience spans Java/Spring application development, AI automation, and leading the team behind a national hackathon-winning project.
 
 ```java
-public final class AtharvaUghade {
-    String role = "Java Developer";
-    String currentFocus = "Backend Engineering";
-    String mindset = "Learn deeply. Build deliberately. Ship responsibly.";
-    String milestone = "Smart India Hackathon 2024 Champion";
+public final class AtharvaUghade implements Developer {
+
+    private final String role         = "Java Developer";
+    private final String focus        = "Backend Engineering";
+    private final String[] stack      = {"Java", "Spring Boot", "REST", "SQL"};
+    private final String milestone    = "Smart India Hackathon 2024 Champion";
+    private final String mindset      = "Learn deeply. Build deliberately. Ship responsibly.";
+
+    @Override
+    public Software build(Problem problem) {
+        return design(problem).secure().test().ship();
+    }
 }
 ```
 
-## `02 / IMPACT LOG`
+---
+
+## `02 // ACHIEVEMENTS UNLOCKED`
 
 <div align="center">
 
-| `01` | `02` | `03` |
+| 🏆 `LEVEL 1` | 💎 `LEVEL 2` | 🚀 `LEVEL 3` |
 |:---:|:---:|:---:|
-| **1st Place** | **₹5,00,000** | **Top 1%** |
-| SIH 2024 · NIT Surathkal | IDE Bootcamp prize | National innovators recognition |
-| BLACKGOLD project | Innovation, Design & Entrepreneurship Bootcamp | IDE Bootcamp |
+| **SIH 2024 Champion** | **IDE Bootcamp Prize** | **Top 1% Innovator** |
+| 1st place · NIT Surathkal | ₹5,00,000 | IDE Bootcamp |
+| BLACKGOLD · ₹1,00,000 prize | Innovation, Design & Entrepreneurship | National recognition |
 
 </div>
 
-> **Recognition:** BLACKGOLD secured first place and a ₹1,00,000 prize at NIT Surathkal during Smart India Hackathon 2024. Separately, the IDE Bootcamp achievement included a ₹5,00,000 prize and recognition among the top 1% of innovators nationally.
+> **Note:** BLACKGOLD won first place and a ₹1,00,000 prize at Smart India Hackathon 2024 (NIT Surathkal). The ₹5,00,000 prize and Top 1% recognition are from the separate IDE Bootcamp.
 
-## `03 / PROJECTS`
+---
 
-### `01` BLACKGOLD — Coal Project Monitoring Platform
-**Node.js · Express.js · MongoDB · Python · JWT · AWS/Azure**
+## `03 // PROJECTS`
 
-A secure digital platform developed under **Smart India Hackathon 2024** for the Ministry of Coal, Government of India, to digitize science and technology / R&D project monitoring and replace paper-based workflows.
+<details open>
+<summary><b><code>01</code> &nbsp;BLACKGOLD · Coal Project Monitoring Platform</b></summary>
 
-**What it does**
+<br/>
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+
+A secure digital platform built under **Smart India Hackathon 2024** for the **Ministry of Coal, Government of India**, replacing paper-based science and technology / R&D project monitoring with a digital workflow.
+
+**Mission brief**
 - Dual-portal architecture for Ministry/CMPDI administrators and project investigators
-- Real-time project tracking and automated fund-workflow support
+- Real-time project tracking with automated fund-workflow support
 - AI/ML-assisted delay prediction and data-validation analytics
 - JWT authentication, multi-factor authentication, and push notifications
 - Cloud deployment on AWS/Azure
 
-**My role:** Led a five-member team that secured **1st place at NIT Surathkal**.
+**My role:** led a five-member team to **1st place at NIT Surathkal**.
 
 ```mermaid
+%%{init: {'theme':'dark', 'themeVariables': {'primaryColor':'#111827','primaryBorderColor':'#8B5CF6','primaryTextColor':'#E5E7EB','lineColor':'#A78BFA'}}}%%
 flowchart LR
-    A[Ministry / CMPDI Admin Portal] --> C[Secure Backend APIs]
-    B[Investigator Portal] --> C
-    C --> D[(Project Database)]
-    C --> E[AI/ML Validation & Delay Prediction]
-    C --> F[Fund Workflow & Notifications]
-    style A fill:#111827,stroke:#8B5CF6,color:#E5E7EB
-    style B fill:#111827,stroke:#8B5CF6,color:#E5E7EB
+    A["🏛️ Ministry / CMPDI<br/>Admin Portal"] --> C{{"🔐 Secure Backend APIs<br/>JWT + MFA"}}
+    B["🔬 Investigator<br/>Portal"] --> C
+    C --> D[("🗄️ Project<br/>Database")]
+    C --> E["🤖 AI/ML Engine<br/>Validation + Delay Prediction"]
+    C --> F["💸 Fund Workflow<br/>+ Notifications"]
     style C fill:#312E81,stroke:#A78BFA,color:#FFFFFF
-    style D fill:#111827,stroke:#22C55E,color:#E5E7EB
     style E fill:#111827,stroke:#F59E0B,color:#E5E7EB
     style F fill:#111827,stroke:#38BDF8,color:#E5E7EB
+    style D fill:#111827,stroke:#22C55E,color:#E5E7EB
 ```
 
-**Repository:** [Add the BLACKGOLD repository or public project link](https://github.com/YOUR_GITHUB_USERNAME)
+🔗 **Repository:** [Add the BLACKGOLD repository or public project link](https://github.com/YOUR_GITHUB_USERNAME)
+
+</details>
+
+<details open>
+<summary><b><code>02</code> &nbsp;EdTech Platform · Course, Employee &amp; Student Management</b></summary>
+
+<br/>
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
+![JPA](https://img.shields.io/badge/Spring%20Data%20JPA-59666C?style=flat-square&logo=hibernate&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+A multi-role EdTech application covering course sales, inquiries, follow-ups, and user management across **Admin, Employee, and Student** modules.
+
+**System design**
+- **Controller → Service → Repository** layering with constructor injection for loose coupling and testability
+- Spring Security with a custom `UserDetailsService`, BCrypt password encoding, and role-based access control
+- Admin dashboard with sales tracking, customer management, feedback handling, charts, and paginated course CRUD
+- Payment gateway integration
+
+```mermaid
+%%{init: {'theme':'dark', 'themeVariables': {'primaryColor':'#111827','primaryBorderColor':'#8B5CF6','primaryTextColor':'#E5E7EB','lineColor':'#A78BFA','actorBkg':'#111827','actorBorder':'#8B5CF6','signalColor':'#A78BFA'}}}%%
+sequenceDiagram
+    autonumber
+    actor U as Admin / Employee / Student
+    participant S as Spring Security
+    participant C as MVC Controller
+    participant B as Service Layer
+    participant R as JPA Repository
+    participant DB as MySQL
+    U->>S: Request + credentials
+    S->>S: UserDetailsService + BCrypt check
+    S->>C: Authorized by role (RBAC)
+    C->>B: Delegate business logic
+    B->>R: Query / persist
+    R->>DB: SQL
+    DB-->>R: Result set
+    R-->>B: Entities
+    B-->>C: DTO / model
+    C-->>U: View or response
+```
+
+🔗 **Repository:** [Add the EdTech project repository](https://github.com/YOUR_GITHUB_USERNAME)
+
+</details>
 
 ---
 
-### `02` EdTech Platform — Course, Employee & Student Management
-**Java · Spring Boot · Spring MVC · Spring Security · Spring Data JPA · MySQL · Payment Gateway**
+## `04 // STACK LOADOUT`
 
-A multi-role EdTech application covering course sales, inquiries, follow-ups, and user management through Admin, Employee, and Student modules.
-
-- Structured the application with **Controller → Service → Repository** layers
-- Used constructor injection to support loose coupling and testability
-- Implemented Spring Security with a custom `UserDetailsService`, BCrypt password encoding, and role-based access control
-- Built an admin dashboard with sales tracking, customer management, feedback handling, charts, and paginated course CRUD
-
-```mermaid
-flowchart TD
-    U[Admin / Employee / Student] --> S[Spring Security]
-    S --> C[Spring MVC Controllers]
-    C --> B[Service Layer]
-    B --> R[Spring Data JPA Repository]
-    R --> DB[(MySQL)]
-    B --> P[Payment Gateway Integration]
-    style S fill:#312E81,stroke:#A78BFA,color:#FFFFFF
-    style B fill:#111827,stroke:#22C55E,color:#E5E7EB
-    style DB fill:#111827,stroke:#38BDF8,color:#E5E7EB
-```
-
-**Repository:** [Add the EdTech project repository](https://github.com/YOUR_GITHUB_USERNAME)
-
-## `04 / SKILL MATRIX`
-
-A snapshot of the technologies used in my projects and current engineering focus. This is a **technology map, not a proficiency score**.
-
-| Area | Stack / Concepts |
-|---|---|
-| **Languages** | `Java` `JavaScript` `SQL` |
-| **Backend** | `Spring Boot` `Spring MVC` `REST APIs` `Hibernate` `Spring Data JPA` |
-| **Security** | `Spring Security` `JWT` `BCrypt` `Role-Based Access Control` `MFA` |
-| **Databases** | `MySQL` `MongoDB` |
-| **Build & Developer Tools** | `Maven` `Gradle` `Git` `GitHub` `Postman` `IntelliJ IDEA` `Eclipse` |
-| **Cloud & Delivery** | `AWS` `Azure` |
-| **Exploring / Foundational** | `Microservices Architecture` `AI/ML Integration` `n8n` `Vapi` `AI Agents` |
+> A **technology map**, not a proficiency score.
 
 <div align="center">
 
@@ -135,7 +186,34 @@ A snapshot of the technologies used in my projects and current engineering focus
 
 </div>
 
-## `05 / EXPERIENCE`
+| Slot | Gear equipped |
+|---|---|
+| ⚔️ **Languages** | `Java` `JavaScript` `SQL` |
+| 🛡️ **Backend** | `Spring Boot` `Spring MVC` `REST APIs` `Hibernate` `Spring Data JPA` |
+| 🔐 **Security** | `Spring Security` `JWT` `BCrypt` `Role-Based Access Control` `MFA` |
+| 🗄️ **Databases** | `MySQL` `MongoDB` |
+| 🧰 **Tooling** | `Maven` `Gradle` `Git` `GitHub` `Postman` `IntelliJ IDEA` `Eclipse` |
+| ☁️ **Cloud** | `AWS` `Azure` |
+| 🧪 **Side quests** | `Microservices Architecture` `AI/ML Integration` `n8n` `Vapi` `AI Agents` |
+
+---
+
+## `05 // COMMIT HISTORY`
+
+```text
+$ git log --graph --oneline --decorate
+
+* 9f3c2a1 (HEAD -> main) feat: backend engineer in progress
+|           Java · Spring Boot · REST · SQL · microservices
+|
+* 7be41d0 feat: Team Lead @ Superiors Technology       [Nov 2024 → Feb 2026]
+|           n8n · Vapi · AI agents for startups, SMEs, manufacturing
+|
+* 4ad9c88 feat: BLACKGOLD ships, SIH 2024 Champion     [NIT Surathkal]
+|           5-member team · Ministry of Coal · 1st place
+|
+* 1c05e7f init: B.Tech IT @ SPPU                       [expected May 2027]
+```
 
 ### Team Lead · Superiors Technology
 `November 2024 — February 2026` · Pune, India
@@ -144,34 +222,43 @@ A snapshot of the technologies used in my projects and current engineering focus
 - Built AI-assisted outbound workflows for personalized cold email and direct-message lead generation.
 - Supported brand growth for healthcare and hospitality clients through AI-assisted content strategy, paid marketing, and social media campaigns.
 
-## `06 / GITHUB TELEMETRY`
+---
+
+## `06 // GITHUB TELEMETRY`
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&icon_color=22C55E&rank_icon=github" alt="GitHub profile statistics"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" alt="Most used languages"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&icon_color=22C55E&rank_icon=github" alt="GitHub stats"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" alt="Top languages"/>
 
 <br/>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&hide_border=true&background=0D1117&ring=A78BFA&fire=F59E0B&currStreakLabel=22C55E&sideLabels=C9D1D9&dates=8B949E" alt="GitHub contribution streak"/>
+<img width="70%" src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&hide_border=true&background=0D1117&ring=A78BFA&fire=F59E0B&currStreakLabel=22C55E&sideLabels=C9D1D9&dates=8B949E" alt="Contribution streak"/>
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=0D1117&color=C9D1D9&line=8B5CF6&point=22C55E&area=true&hide_border=true" width="100%" alt="GitHub contribution activity graph"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=0D1117&color=C9D1D9&line=8B5CF6&point=22C55E&area=true&hide_border=true" alt="Contribution activity graph"/>
 
 </div>
 
-<sub>These cards are generated from public GitHub activity and repository data. They may take time to load and depend on third-party services.</sub>
+<sub>Cards are generated from public GitHub data via third-party services and may take a moment to load.</sub>
 
-## `07 / OUTSIDE THE TERMINAL`
+---
 
-**Leadership · Entrepreneurship · Collaboration**
+## `07 // OUTSIDE THE TERMINAL`
 
-Beyond code, I've worked on student leadership, startup events, and AI-powered business solutions. I served as Vice President for the IT department's Young Inspirators Network and as Marketing Lead at E-Cell RSCOE, and contributed to startup-focused activities at E-Summit 2025.
+```text
+$ cat leadership.log
 
-I believe good engineering combines technical depth with communication, ownership, and teamwork.
+[ROLE]  Vice President   · IT Department, Young Inspirators Network
+[ROLE]  Marketing Lead   · E-Cell RSCOE
+[EVENT] Startup activities · E-Summit 2025
+[BELIEF] Good engineering = technical depth + communication + ownership + teamwork
+```
 
-## `08 / CONNECT`
+---
+
+## `08 // CONNECT`
 
 <div align="center">
 
@@ -182,11 +269,15 @@ I believe good engineering combines technical depth with communication, ownershi
 <br/><br/>
 
 ```text
-[ SYSTEM STATUS ]  Learning: ACTIVE
-[ BUILD STATUS  ]  Projects: IN PROGRESS
-[ NEXT OBJECTIVE]  Become a stronger backend engineer
+╭────────────────────────────────────────────╮
+│ [ SYSTEM STATUS ]   learning      : ACTIVE │
+│ [ BUILD STATUS  ]   projects      : RUNNING│
+│ [ NEXT OBJECTIVE]   stronger backend engineer │
+╰────────────────────────────────────────────╯
 ```
 
-**“Build things that work. Understand why they work. Make them matter.”**
+**"Build things that work. Understand why they work. Make them matter."**
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:7C3AED,50:111827,100:05070D&section=footer" alt="Footer wave"/>
 
 </div>
