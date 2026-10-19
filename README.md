@@ -1,218 +1,192 @@
-<!--
-  ATHARVA U G H A D E | GITHUB PROFILE README
-  Replace YOUR_GITHUB_USERNAME and the remaining placeholders before publishing.
--->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,50:312E81,100:7C3AED&height=210&section=header&text=ATHARVA%20UGH ADE&fontSize=42&fontColor=FFFFFF&fontAlignY=36&desc=Engineer%20%7C%20Builder%20%7C%20Problem%20Solver&descSize=16&descAlignY=58" width="100%" alt="Atharva Ughade — developer profile banner"/>
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=700&lines=Java+%26+Spring+Boot+Developer;Smart+India+Hackathon+2024+Winner;Building+Backend+Systems+That+Solve+Real+Problems;From+Ideas+to+Impact%2C+One+Commit+at+a+Time" alt="Animated introduction"/>
-</a>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:05070D,45:111827,100:7C3AED&text=ATHARVA%20UGH ADE&fontColor=E5E7EB&fontSize=44&fontAlignY=42&desc=JAVA%20DEVELOPER%20%7C%20SYSTEMS%20THINKER%20%7C%20BUILDER&descSize=14&descAlignY=62" alt="Atharva Ughade developer banner"/>
 
 <br/>
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-  <img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-181717?style=for-the-badge&logo=github" alt="GitHub"/>
-</a>
-<a href="https://www.linkedin.com/">
-  <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
-</a>
-<a href="https://superiors.in/">
-  <img src="https://img.shields.io/badge/Superiors-Entrepreneurship-6D28D9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Superiors India"/>
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2600&pause=800&color=A78BFA&center=true&vCenter=true&width=720&lines=booting+atharva.dev...;Java+%7C+Spring+Boot+%7C+REST+APIs;SIH+2024+Champion+%7C+Team+Lead;Building+systems.+Solving+real+problems." alt="Terminal-style animated intro"/>
+
+<br/>
+
+<a href="https://github.com/YOUR_GITHUB_USERNAME"><img src="https://img.shields.io/badge/PROFILE-online-22C55E?style=flat-square&logo=github&logoColor=white&labelColor=111827" alt="GitHub profile"/></a>
+<img src="https://img.shields.io/badge/LOCATION-Pune%2C%20India-7C3AED?style=flat-square&labelColor=111827" alt="Location Pune India"/>
+<img src="https://img.shields.io/badge/FOCUS-Java%20%2B%20Spring%20Boot-A78BFA?style=flat-square&labelColor=111827" alt="Java and Spring Boot focus"/>
+<img src="https://img.shields.io/badge/SIH-2024%20CHAMPION-F59E0B?style=flat-square&labelColor=111827" alt="Smart India Hackathon 2024 Champion"/>
 
 </div>
 
----
+```bash
+┌──(atharva㉿devbox)-[~/profile]
+└─$ whoami
+Java developer • B.Tech IT • Team Lead • SIH 2024 Champion
+```
 
-## `$ whoami`
+## `01 / ABOUT`
 
-Hi, I'm **Atharva Ughade** — an Information Technology engineering student at JSPM's Rajarshi Shahu College of Engineering, Pune, India.
+Hey, I'm **Atharva Ughade**, an Information Technology engineering student at Savitribai Phule Pune University, building my path in backend engineering.
 
-I'm passionate about backend development, problem-solving, building useful software, and turning ideas into practical solutions.
+I enjoy designing practical applications, understanding how systems fit together, and working with teams to turn complex problems into useful software. My experience spans Java/Spring application development, AI automation, and leading a team behind a national hackathon-winning project.
 
-My journey combines software engineering with entrepreneurship and team leadership. From developing backend applications with Java and Spring Boot to leading a team that won **Smart India Hackathon 2024**, I enjoy working on problems where technology can make a meaningful difference.
+- **Currently focused on:** Java, Spring Boot, REST APIs, SQL, and backend fundamentals
+- **Engineering mindset:** clear layers, secure access, maintainable code, real-world utility
+- **Leadership:** Team Lead at Superiors Technology; led a five-member team on BLACKGOLD
+- **Education:** B.Tech in Information Technology · CGPA 8.08/10 · Expected May 2027
 
 ```java
-public class Atharva {
-
-    String role = "Aspiring Backend Developer";
-    String primaryStack = "Java + Spring Boot";
-    String achievement = "Smart India Hackathon 2024 Winner";
-    String mindset = "Build. Learn. Improve. Repeat.";
-
-    public void currentFocus() {
-        System.out.println("Building reliable backend applications");
-        System.out.println("Strengthening DSA and system design fundamentals");
-        System.out.println("Learning by building real-world projects");
-    }
+public final class AtharvaUghade {
+    String role = "Java Developer";
+    String currentFocus = "Backend Engineering";
+    String mindset = "Learn deeply. Build deliberately. Ship responsibly.";
+    String milestone = "Smart India Hackathon 2024 Champion";
 }
 ```
 
-- Currently strengthening my skills in **Java, Spring Boot, REST APIs, and SQL**.
-- Interested in backend engineering, databases, application security, and cloud technologies.
-- Believe in learning by building, collaborating, and solving real-world problems.
-- Enjoy taking ownership, coordinating teams, and converting ideas into execution.
-
----
-
-## `$ featured_projects`
-
-### 01. BLACKGOLD — Coal Project Monitoring Platform
-
-**Smart India Hackathon 2024 | Winning Project**
-
-A digital platform developed to improve the monitoring of science and technology research and development projects in the coal sector for the Ministry of Coal, Government of India.
-
-**What we built**
-- Dual-portal architecture for administrators and investigators.
-- Real-time project tracking and digital fund-workflow management.
-- AI/ML-assisted delay prediction and data-validation analytics.
-- JWT-based authentication and multi-factor authentication.
-- Cloud deployment architecture and push notifications.
-
-**Technology stack**
-
-`Flutter` `Node.js` `Express.js` `MongoDB` `Python` `AWS` `JWT` `AI/ML`
-
-**My highlight:** Led a five-member team to victory at Smart India Hackathon 2024, competing at NIT Surathkal.
-
-> A project focused on digitizing workflows, improving visibility, and bringing greater accountability to research project monitoring.
-
-**Explore the project:** [Add BLACKGOLD repository or project link here](https://github.com/YOUR_GITHUB_USERNAME)
-
----
-
-### 02. Hospital Management System
-
-A backend-oriented application for organizing hospital operations, patient records, and user workflows.
-
-**Areas of focus**
-- REST API development and layered application architecture.
-- Authentication and authorization using Spring Security.
-- Database persistence with Spring Data JPA and Hibernate.
-- Request handling, validation, and exception management.
-
-**Technology stack**
-
-`Java` `Spring Boot` `Spring Security` `Spring Data JPA` `Hibernate` `MySQL` `REST API`
-
-**Explore the project:** [Add your hospital management repository URL here](https://github.com/YOUR_GITHUB_USERNAME)
-
----
-
-### 03. E-commerce Fake Review Detection System
-
-A project concept focused on identifying suspicious product reviews and helping users make more informed purchasing decisions, particularly in quick commerce.
-
-**Areas of exploration**
-- Review-data processing and feature extraction.
-- Machine learning for suspicious-review classification.
-- Database integration and API-based access to prediction results.
-- Making product feedback more trustworthy through data analysis.
-
-**Potential technology stack**
-
-`Python` `Machine Learning` `SQL` `REST APIs`
-
-**Status:** Project idea / development in progress. Update this section as implementation progresses.
-
-**Explore the project:** [Add repository URL when available](https://github.com/YOUR_GITHUB_USERNAME)
-
----
-
-## `$ tech_stack`
-
-The tools I use and the technologies I'm actively learning.
+## `02 / IMPACT LOG`
 
 <div align="center">
 
-### Backend Development
-
-<img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven&theme=dark" alt="Java, Spring, Hibernate, Maven"/>
-
-### Databases & Programming Fundamentals
-
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,python,cpp&theme=dark" alt="MySQL, MongoDB, Python, C++"/>
-
-### Web & Tools
-
-<img src="https://skillicons.dev/icons?i=html,css,javascript,git,github,postman,idea,eclipse&theme=dark" alt="HTML, CSS, JavaScript, Git, GitHub, Postman, IntelliJ IDEA, Eclipse"/>
-
-### Cloud & Deployment
-
-<img src="https://skillicons.dev/icons?i=aws,docker&theme=dark" alt="AWS and Docker"/>
+| `01` | `02` | `03` |
+|:---:|:---:|:---:|
+| **1st Place** | **₹5,00,000** | **Top 1%** |
+| SIH 2024 · NIT Surathkal | IDE Bootcamp prize | National innovators recognition |
+| BLACKGOLD project | Innovation, Design & Entrepreneurship Bootcamp | IDE Bootcamp |
 
 </div>
 
-**Core concepts:** Object-Oriented Programming, Data Structures and Algorithms, Collections Framework, Java 8+ features, RESTful APIs, MVC architecture, JDBC, Hibernate/JPA, SQL, and Git-based collaboration.
+> **Recognition:** BLACKGOLD secured first place and a ₹1,00,000 prize at NIT Surathkal during Smart India Hackathon 2024. Separately, the IDE Bootcamp achievement included a ₹5,00,000 prize and recognition among the top 1% of innovators nationally.
 
-*Skill icons represent my working toolkit and learning interests, not expert-level proficiency in every technology.*
+## `03 / PROJECTS`
+
+### `01` BLACKGOLD — Coal Project Monitoring Platform
+**Node.js · Express.js · MongoDB · Python · JWT · AWS/Azure**
+
+A secure digital platform developed under **Smart India Hackathon 2024** for the Ministry of Coal, Government of India, to digitize science and technology / R&D project monitoring and replace paper-based workflows.
+
+**What it does**
+- Dual-portal architecture for Ministry/CMPDI administrators and project investigators
+- Real-time project tracking and automated fund-workflow support
+- AI/ML-assisted delay prediction and data-validation analytics
+- JWT authentication, multi-factor authentication, and push notifications
+- Cloud deployment on AWS/Azure
+
+**My role:** Led a five-member team that secured **1st place at NIT Surathkal**.
+
+```mermaid
+flowchart LR
+    A[Ministry / CMPDI Admin Portal] --> C[Secure Backend APIs]
+    B[Investigator Portal] --> C
+    C --> D[(Project Database)]
+    C --> E[AI/ML Validation & Delay Prediction]
+    C --> F[Fund Workflow & Notifications]
+    style A fill:#111827,stroke:#8B5CF6,color:#E5E7EB
+    style B fill:#111827,stroke:#8B5CF6,color:#E5E7EB
+    style C fill:#312E81,stroke:#A78BFA,color:#FFFFFF
+    style D fill:#111827,stroke:#22C55E,color:#E5E7EB
+    style E fill:#111827,stroke:#F59E0B,color:#E5E7EB
+    style F fill:#111827,stroke:#38BDF8,color:#E5E7EB
+```
+
+**Repository:** [Add the BLACKGOLD repository or public project link](https://github.com/YOUR_GITHUB_USERNAME)
 
 ---
 
-## `$ beyond_the_code`
+### `02` EdTech Platform — Course, Employee & Student Management
+**Java · Spring Boot · Spring MVC · Spring Security · Spring Data JPA · MySQL · Payment Gateway**
 
-I believe engineering is not just about writing code. It's also about ownership, communication, teamwork, and execution.
+A multi-role EdTech application covering course sales, inquiries, follow-ups, and user management through Admin, Employee, and Student modules.
 
-| Role / Achievement | What it represents |
-|:--|:--|
-| **Smart India Hackathon 2024 Winner** | Led a five-member team to build a real-world project-monitoring solution. |
-| **Marketing Lead — E-Cell, RSCOE** | Worked on entrepreneurship initiatives and startup-focused activities. |
-| **Vice President — YIN, IT Department** | Took on student leadership and coordination responsibilities. |
-| **Startup Expo — E-Summit 2025** | Helped lead and organize startup-focused event activities. |
-| **Co-founder & CEO — Superiors India** | Exploring entrepreneurship, creative technology, and AI-powered content solutions. |
+- Structured the application with **Controller → Service → Repository** layers
+- Used constructor injection to support loose coupling and testability
+- Implemented Spring Security with a custom `UserDetailsService`, BCrypt password encoding, and role-based access control
+- Built an admin dashboard with sales tracking, customer management, feedback handling, charts, and paginated course CRUD
 
-My goal is to combine strong engineering fundamentals with the ability to lead teams, communicate ideas, and deliver solutions that matter.
+```mermaid
+flowchart TD
+    U[Admin / Employee / Student] --> S[Spring Security]
+    S --> C[Spring MVC Controllers]
+    C --> B[Service Layer]
+    B --> R[Spring Data JPA Repository]
+    R --> DB[(MySQL)]
+    B --> P[Payment Gateway Integration]
+    style S fill:#312E81,stroke:#A78BFA,color:#FFFFFF
+    style B fill:#111827,stroke:#22C55E,color:#E5E7EB
+    style DB fill:#111827,stroke:#38BDF8,color:#E5E7EB
+```
 
----
+**Repository:** [Add the EdTech project repository](https://github.com/YOUR_GITHUB_USERNAME)
 
-## `$ github_activity`
+## `04 / SKILL MATRIX`
+
+A snapshot of the technologies used in my projects and current engineering focus. This is a **technology map, not a proficiency score**.
+
+| Area | Stack / Concepts |
+|---|---|
+| **Languages** | `Java` `JavaScript` `SQL` |
+| **Backend** | `Spring Boot` `Spring MVC` `REST APIs` `Hibernate` `Spring Data JPA` |
+| **Security** | `Spring Security` `JWT` `BCrypt` `Role-Based Access Control` `MFA` |
+| **Databases** | `MySQL` `MongoDB` |
+| **Build & Developer Tools** | `Maven` `Gradle` `Git` `GitHub` `Postman` `IntelliJ IDEA` `Eclipse` |
+| **Cloud & Delivery** | `AWS` `Azure` |
+| **Exploring / Foundational** | `Microservices Architecture` `AI/ML Integration` `n8n` `Vapi` `AI Agents` |
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub contribution and repository statistics"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most-used programming languages"/>
-
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
+<img src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql,mongodb,js,python,git,github,postman,maven,gradle,aws,azure,idea,eclipse&theme=dark&perline=8" alt="Technology icons"/>
 
 </div>
 
----
+## `05 / EXPERIENCE`
 
-## `$ beyond_the_terminal`
+### Team Lead · Superiors Technology
+`November 2024 — February 2026` · Pune, India
 
-When I'm away from my editor, you'll probably find me playing cricket, swimming, watching a great movie, exploring new business ideas, or connecting with people who enjoy building things.
+- Led a core team delivering AI automation solutions with **n8n, Vapi, and AI agents** for startups, SMEs, and manufacturing businesses.
+- Built AI-assisted outbound workflows for personalized cold email and direct-message lead generation.
+- Supported brand growth for healthcare and hospitality clients through AI-assisted content strategy, paid marketing, and social media campaigns.
 
-I value curiosity, consistency, teamwork, and the willingness to learn something difficult.
-
-**My philosophy:** Don't just learn technologies. Use them to solve problems.
-
----
-
-## `$ let's_connect`
-
-I'm open to connecting with developers, discussing backend engineering, collaborating on meaningful projects, and exploring opportunities to learn and grow.
+## `06 / GITHUB TELEMETRY`
 
 <div align="center">
 
-<a href="https://www.linkedin.com/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="Connect on LinkedIn"/>
-</a>
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-  <img src="https://img.shields.io/badge/GitHub-Follow%20My%20Work-181717?style=for-the-badge&logo=github" alt="Follow on GitHub"/>
-</a>
-<a href="https://superiors.in/">
-  <img src="https://img.shields.io/badge/Website-Superiors.in-6D28D9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Superiors India website"/>
-</a>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&icon_color=22C55E&rank_icon=github" alt="GitHub profile statistics"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" alt="Most used languages"/>
+
+<br/>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&hide_border=true&background=0D1117&ring=A78BFA&fire=F59E0B&currStreakLabel=22C55E&sideLabels=C9D1D9&dates=8B949E" alt="GitHub contribution streak"/>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=0D1117&color=C9D1D9&line=8B5CF6&point=22C55E&area=true&hide_border=true" width="100%" alt="GitHub contribution activity graph"/>
+
+</div>
+
+<sub>These cards are generated from public GitHub activity and repository data. They may take time to load and depend on third-party services.</sub>
+
+## `07 / OUTSIDE THE TERMINAL`
+
+**Leadership · Entrepreneurship · Collaboration**
+
+Beyond code, I've worked on student leadership, startup events, and AI-powered business solutions. I served as Vice President for the IT department's Young Inspirators Network and as Marketing Lead at E-Cell RSCOE, and contributed to startup-focused activities at E-Summit 2025.
+
+I believe good engineering combines technical depth with communication, ownership, and teamwork.
+
+## `08 / CONNECT`
+
+<div align="center">
+
+<a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:atharvaughade78@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Atharva"/></a>
+<a href="https://github.com/YOUR_GITHUB_USERNAME"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="GitHub"/></a>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:312E81,100:0B1020&height=110&section=footer" width="100%" alt="Decorative purple footer"/>
+```text
+[ SYSTEM STATUS ]  Learning: ACTIVE
+[ BUILD STATUS  ]  Projects: IN PROGRESS
+[ NEXT OBJECTIVE]  Become a stronger backend engineer
+```
 
-<sub>Building my skills, one project and one commit at a time.</sub>
+**“Build things that work. Understand why they work. Make them matter.”**
 
 </div>
